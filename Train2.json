@@ -1,0 +1,10 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "s1": "false",
+            "thickness": "0.127",
+            "width": "1.4350000000000001"
+        }
+    }
+}
